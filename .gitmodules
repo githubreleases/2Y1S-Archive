@@ -1,0 +1,3 @@
+[submodule "employee-record-system"]
+	path = employee-record-system
+	url = git@github.com:sourovw/employee-record-system.git
